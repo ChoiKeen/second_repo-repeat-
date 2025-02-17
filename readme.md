@@ -12,19 +12,21 @@
 
 ## 학습한 코딩언어
 ### C
-'''C
+```C
 printf("Hello World")
 scanf_s("%d", "내용을 입력하세요")
-'''
+```
 
 ### DBMS
+```
 MySQL
+```
 
 ### Python
-'''python
+```python
 print("Hello Python")
 input(int('숫자를 입력하세요 : ')
-'''
+```
 
 ### AWS 클라우딩
 - 진행중
